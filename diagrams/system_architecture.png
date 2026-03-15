@@ -1,0 +1,7 @@
+DHT Sensor
+     ↓
+   ESP32
+     ↓
+   WiFi Network
+     ↓
+Cloud / Dashboard
